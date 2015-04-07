@@ -49,6 +49,14 @@ namespace WingtipToys
         // Used for XSRF when linking external logins
         public const string XsrfKey = "XsrfId";
 
+        public static void SignIn(ApplicationUserManager manager, ApplicationUser user, bool isPersistent)
+        {
+            IAuthenticationManager authenticationManager = HttpContext.Current.GetOwinContext().Authentication;
+            authenticationManager.SignOut(DefaultAuthenticationTypes.ExternalCookie);
+            var identity = manager.CreateIdentity(user, DefaultAuthenticationTypes.ApplicationCookie);
+            authenticationManager.SignIn(new AuthenticationProperties() { IsPersistent = isPersistent }, identity);
+        }
+        
         public const string ProviderNameKey = "providerName";
         public static string GetProviderNameFromRequest(HttpRequest request)
         {

@@ -59,11 +59,11 @@ namespace WingtipToys
             //   appId: "",
             //   appSecret: "");
 
-            //app.UseGoogleAuthentication(new GoogleOAuth2AuthenticationOptions()
-            //{
-            //    ClientId = "",
-            //    ClientSecret = ""
-            //});
+            app.UseGoogleAuthentication(new GoogleOAuth2AuthenticationOptions()
+            {
+                ClientId = "725551769077-ohaifv3ooc036eon7rc615ns3bmnh5of.apps.googleusercontent.com",
+                ClientSecret = "g-jA9xLICVe6oBJlCDa6YDea"
+            });
         }
     }
 }
