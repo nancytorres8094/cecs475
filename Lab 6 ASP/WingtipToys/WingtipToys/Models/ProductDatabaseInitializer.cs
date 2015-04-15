@@ -39,6 +39,11 @@ namespace WingtipToys.Models
                     CategoryID = 5,
                     CategoryName = "Rockets"
                 },
+                new Category 
+                {
+                    CategoryID = 6,
+                    CategoryName = "Love"
+                }
             };
 
             return categories;
