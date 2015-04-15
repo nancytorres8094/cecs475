@@ -3,7 +3,7 @@ using System.Data.Entity;
 
 namespace WingtipToys.Models
 {
-    public class ProductDatabaseInitializer : DropCreateDatabaseIfModelChanges<ProductContext>
+    public class ProductDatabaseInitializer : DropCreateDatabaseAlways<ProductContext>
     {
         protected override void Seed(ProductContext context)
         {
@@ -38,6 +38,11 @@ namespace WingtipToys.Models
                 {
                     CategoryID = 5,
                     CategoryName = "Rockets"
+                },
+                new Category 
+                {
+                    CategoryID = 6,
+                    CategoryName = "Love"
                 },
             };
 

@@ -174,6 +174,8 @@
     <Content Include="Catalog\Images\carfast.png" />
     <Content Include="Catalog\Images\carfaster.png" />
     <Content Include="Catalog\Images\carracer.png" />
+    <Content Include="Catalog\Images\dog.png" />
+    <Content Include="Catalog\Images\mama.png" />
     <Content Include="Catalog\Images\planeace.png" />
     <Content Include="Catalog\Images\planeglider.png" />
     <Content Include="Catalog\Images\planepaper.png" />
@@ -190,6 +192,8 @@
     <Content Include="Catalog\Images\Thumbs\carfast.png" />
     <Content Include="Catalog\Images\Thumbs\carfaster.png" />
     <Content Include="Catalog\Images\Thumbs\carracer.png" />
+    <Content Include="Catalog\Images\Thumbs\dog.png" />
+    <Content Include="Catalog\Images\Thumbs\mama.png" />
     <Content Include="Catalog\Images\Thumbs\planeace.png" />
     <Content Include="Catalog\Images\Thumbs\planeglider.png" />
     <Content Include="Catalog\Images\Thumbs\planepaper.png" />
