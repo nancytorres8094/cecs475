@@ -199,7 +199,25 @@ namespace WingtipToys.Models
                     ImagePath="rocket.png",
                     UnitPrice = 122.95,
                     CategoryID = 5
-                }
+                },
+                new Product 
+                {
+                    ProductID = 17,
+                    ProductName = "Yo Mama",
+                    Description = "Don't tell my mama.",
+                    ImagePath = "mama.png",
+                    UnitPrice = 299.95,
+                    CategoryID = 6
+                },
+                new Product
+                {
+                    ProductID = 18,
+                    ProductName = "Pomeranian",
+                    Description = "One day best friend, next day best meal.",
+                    ImagePath = "dog.png",
+                    UnitPrice = 799.95,
+                    CategoryID = 6
+}
             };
 
             return products;
