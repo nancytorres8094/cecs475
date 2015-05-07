@@ -1,0 +1,119 @@
+c:\users\nancy\documents\visual studio 2013\Projects\MvcMovie\MvcMovie\bin\MvcMovie.dll.config
+c:\users\nancy\documents\visual studio 2013\Projects\MvcMovie\MvcMovie\bin\MvcMovie.dll
+c:\users\nancy\documents\visual studio 2013\Projects\MvcMovie\MvcMovie\bin\MvcMovie.pdb
+c:\users\nancy\documents\visual studio 2013\Projects\MvcMovie\MvcMovie\bin\Antlr3.Runtime.dll
+c:\users\nancy\documents\visual studio 2013\Projects\MvcMovie\MvcMovie\bin\EntityFramework.dll
+c:\users\nancy\documents\visual studio 2013\Projects\MvcMovie\MvcMovie\bin\EntityFramework.SqlServer.dll
+c:\users\nancy\documents\visual studio 2013\Projects\MvcMovie\MvcMovie\bin\Microsoft.AspNet.Identity.Core.dll
+c:\users\nancy\documents\visual studio 2013\Projects\MvcMovie\MvcMovie\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+c:\users\nancy\documents\visual studio 2013\Projects\MvcMovie\MvcMovie\bin\Microsoft.AspNet.Identity.Owin.dll
+c:\users\nancy\documents\visual studio 2013\Projects\MvcMovie\MvcMovie\bin\Microsoft.Owin.dll
+c:\users\nancy\documents\visual studio 2013\Projects\MvcMovie\MvcMovie\bin\Microsoft.Owin.Host.SystemWeb.dll
+c:\users\nancy\documents\visual studio 2013\Projects\MvcMovie\MvcMovie\bin\Microsoft.Owin.Security.Cookies.dll
+c:\users\nancy\documents\visual studio 2013\Projects\MvcMovie\MvcMovie\bin\Microsoft.Owin.Security.dll
+c:\users\nancy\documents\visual studio 2013\Projects\MvcMovie\MvcMovie\bin\Microsoft.Owin.Security.Facebook.dll
+c:\users\nancy\documents\visual studio 2013\Projects\MvcMovie\MvcMovie\bin\Microsoft.Owin.Security.Google.dll
+c:\users\nancy\documents\visual studio 2013\Projects\MvcMovie\MvcMovie\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+c:\users\nancy\documents\visual studio 2013\Projects\MvcMovie\MvcMovie\bin\Microsoft.Owin.Security.OAuth.dll
+c:\users\nancy\documents\visual studio 2013\Projects\MvcMovie\MvcMovie\bin\Microsoft.Owin.Security.Twitter.dll
+c:\users\nancy\documents\visual studio 2013\Projects\MvcMovie\MvcMovie\bin\Microsoft.Web.Infrastructure.dll
+c:\users\nancy\documents\visual studio 2013\Projects\MvcMovie\MvcMovie\bin\Newtonsoft.Json.dll
+c:\users\nancy\documents\visual studio 2013\Projects\MvcMovie\MvcMovie\bin\Owin.dll
+c:\users\nancy\documents\visual studio 2013\Projects\MvcMovie\MvcMovie\bin\System.Web.Helpers.dll
+c:\users\nancy\documents\visual studio 2013\Projects\MvcMovie\MvcMovie\bin\System.Web.Mvc.dll
+c:\users\nancy\documents\visual studio 2013\Projects\MvcMovie\MvcMovie\bin\System.Web.Optimization.dll
+c:\users\nancy\documents\visual studio 2013\Projects\MvcMovie\MvcMovie\bin\System.Web.Razor.dll
+c:\users\nancy\documents\visual studio 2013\Projects\MvcMovie\MvcMovie\bin\System.Web.WebPages.Deployment.dll
+c:\users\nancy\documents\visual studio 2013\Projects\MvcMovie\MvcMovie\bin\System.Web.WebPages.dll
+c:\users\nancy\documents\visual studio 2013\Projects\MvcMovie\MvcMovie\bin\System.Web.WebPages.Razor.dll
+c:\users\nancy\documents\visual studio 2013\Projects\MvcMovie\MvcMovie\bin\WebGrease.dll
+c:\users\nancy\documents\visual studio 2013\Projects\MvcMovie\MvcMovie\bin\System.Web.Helpers.xml
+c:\users\nancy\documents\visual studio 2013\Projects\MvcMovie\MvcMovie\bin\System.Web.Mvc.xml
+c:\users\nancy\documents\visual studio 2013\Projects\MvcMovie\MvcMovie\bin\System.Web.Optimization.xml
+c:\users\nancy\documents\visual studio 2013\Projects\MvcMovie\MvcMovie\bin\System.Web.Razor.xml
+c:\users\nancy\documents\visual studio 2013\Projects\MvcMovie\MvcMovie\bin\System.Web.WebPages.xml
+c:\users\nancy\documents\visual studio 2013\Projects\MvcMovie\MvcMovie\bin\System.Web.WebPages.Deployment.xml
+c:\users\nancy\documents\visual studio 2013\Projects\MvcMovie\MvcMovie\bin\System.Web.WebPages.Razor.xml
+c:\users\nancy\documents\visual studio 2013\Projects\MvcMovie\MvcMovie\bin\Antlr3.Runtime.pdb
+c:\users\nancy\documents\visual studio 2013\Projects\MvcMovie\MvcMovie\bin\Newtonsoft.Json.xml
+c:\users\nancy\documents\visual studio 2013\Projects\MvcMovie\MvcMovie\bin\EntityFramework.xml
+c:\users\nancy\documents\visual studio 2013\Projects\MvcMovie\MvcMovie\bin\EntityFramework.SqlServer.xml
+c:\users\nancy\documents\visual studio 2013\Projects\MvcMovie\MvcMovie\bin\Microsoft.AspNet.Identity.Core.xml
+c:\users\nancy\documents\visual studio 2013\Projects\MvcMovie\MvcMovie\bin\Microsoft.AspNet.Identity.Owin.xml
+c:\users\nancy\documents\visual studio 2013\Projects\MvcMovie\MvcMovie\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+c:\users\nancy\documents\visual studio 2013\Projects\MvcMovie\MvcMovie\bin\Microsoft.Owin.xml
+c:\users\nancy\documents\visual studio 2013\Projects\MvcMovie\MvcMovie\bin\Microsoft.Owin.Host.SystemWeb.xml
+c:\users\nancy\documents\visual studio 2013\Projects\MvcMovie\MvcMovie\bin\Microsoft.Owin.Security.xml
+c:\users\nancy\documents\visual studio 2013\Projects\MvcMovie\MvcMovie\bin\Microsoft.Owin.Security.Facebook.xml
+c:\users\nancy\documents\visual studio 2013\Projects\MvcMovie\MvcMovie\bin\Microsoft.Owin.Security.Cookies.xml
+c:\users\nancy\documents\visual studio 2013\Projects\MvcMovie\MvcMovie\bin\Microsoft.Owin.Security.OAuth.xml
+c:\users\nancy\documents\visual studio 2013\Projects\MvcMovie\MvcMovie\bin\Microsoft.Owin.Security.Google.xml
+c:\users\nancy\documents\visual studio 2013\Projects\MvcMovie\MvcMovie\bin\Microsoft.Owin.Security.Twitter.xml
+c:\users\nancy\documents\visual studio 2013\Projects\MvcMovie\MvcMovie\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+c:\users\nancy\documents\visual studio 2013\Projects\MvcMovie\MvcMovie\obj\Debug\MvcMovie.csprojResolveAssemblyReference.cache
+c:\users\nancy\documents\visual studio 2013\Projects\MvcMovie\MvcMovie\obj\Debug\MvcMovie.dll
+c:\users\nancy\documents\visual studio 2013\Projects\MvcMovie\MvcMovie\obj\Debug\MvcMovie.pdb
+C:\Users\Nancy\Documents\Visual Studio 2013\Projects\MvcMovie\MvcMovie\obj\Debug\MvcMovie.Migrations.Initial.resources
+C:\Users\Nancy\Documents\Visual Studio 2013\Projects\MvcMovie\MvcMovie\obj\Debug\MvcMovie.csproj.GenerateResource.Cache
+C:\Users\Nancy\Documents\Visual Studio 2013\Projects\MvcMovie\MvcMovie\obj\Debug\MvcMovie.Migrations.Rating.resources
+C:\Users\Nancy\Documents\Visual Studio 2013\Projects\MvcMovie\MvcMovie\obj\Debug\MvcMovie.Migrations.DataAnnotations.resources
+C:\Users\Nancy\Desktop\New folder (4)\Lab 8 MVC working\MvcMovie\MvcMovie\bin\MvcMovie.dll.config
+C:\Users\Nancy\Desktop\New folder (4)\Lab 8 MVC working\MvcMovie\MvcMovie\bin\MvcMovie.dll
+C:\Users\Nancy\Desktop\New folder (4)\Lab 8 MVC working\MvcMovie\MvcMovie\bin\MvcMovie.pdb
+C:\Users\Nancy\Desktop\New folder (4)\Lab 8 MVC working\MvcMovie\MvcMovie\bin\Antlr3.Runtime.dll
+C:\Users\Nancy\Desktop\New folder (4)\Lab 8 MVC working\MvcMovie\MvcMovie\bin\EntityFramework.dll
+C:\Users\Nancy\Desktop\New folder (4)\Lab 8 MVC working\MvcMovie\MvcMovie\bin\EntityFramework.SqlServer.dll
+C:\Users\Nancy\Desktop\New folder (4)\Lab 8 MVC working\MvcMovie\MvcMovie\bin\Microsoft.AspNet.Identity.Core.dll
+C:\Users\Nancy\Desktop\New folder (4)\Lab 8 MVC working\MvcMovie\MvcMovie\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+C:\Users\Nancy\Desktop\New folder (4)\Lab 8 MVC working\MvcMovie\MvcMovie\bin\Microsoft.AspNet.Identity.Owin.dll
+C:\Users\Nancy\Desktop\New folder (4)\Lab 8 MVC working\MvcMovie\MvcMovie\bin\Microsoft.Owin.dll
+C:\Users\Nancy\Desktop\New folder (4)\Lab 8 MVC working\MvcMovie\MvcMovie\bin\Microsoft.Owin.Host.SystemWeb.dll
+C:\Users\Nancy\Desktop\New folder (4)\Lab 8 MVC working\MvcMovie\MvcMovie\bin\Microsoft.Owin.Security.Cookies.dll
+C:\Users\Nancy\Desktop\New folder (4)\Lab 8 MVC working\MvcMovie\MvcMovie\bin\Microsoft.Owin.Security.dll
+C:\Users\Nancy\Desktop\New folder (4)\Lab 8 MVC working\MvcMovie\MvcMovie\bin\Microsoft.Owin.Security.Facebook.dll
+C:\Users\Nancy\Desktop\New folder (4)\Lab 8 MVC working\MvcMovie\MvcMovie\bin\Microsoft.Owin.Security.Google.dll
+C:\Users\Nancy\Desktop\New folder (4)\Lab 8 MVC working\MvcMovie\MvcMovie\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+C:\Users\Nancy\Desktop\New folder (4)\Lab 8 MVC working\MvcMovie\MvcMovie\bin\Microsoft.Owin.Security.OAuth.dll
+C:\Users\Nancy\Desktop\New folder (4)\Lab 8 MVC working\MvcMovie\MvcMovie\bin\Microsoft.Owin.Security.Twitter.dll
+C:\Users\Nancy\Desktop\New folder (4)\Lab 8 MVC working\MvcMovie\MvcMovie\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\Nancy\Desktop\New folder (4)\Lab 8 MVC working\MvcMovie\MvcMovie\bin\Newtonsoft.Json.dll
+C:\Users\Nancy\Desktop\New folder (4)\Lab 8 MVC working\MvcMovie\MvcMovie\bin\Owin.dll
+C:\Users\Nancy\Desktop\New folder (4)\Lab 8 MVC working\MvcMovie\MvcMovie\bin\System.Web.Helpers.dll
+C:\Users\Nancy\Desktop\New folder (4)\Lab 8 MVC working\MvcMovie\MvcMovie\bin\System.Web.Mvc.dll
+C:\Users\Nancy\Desktop\New folder (4)\Lab 8 MVC working\MvcMovie\MvcMovie\bin\System.Web.Optimization.dll
+C:\Users\Nancy\Desktop\New folder (4)\Lab 8 MVC working\MvcMovie\MvcMovie\bin\System.Web.Razor.dll
+C:\Users\Nancy\Desktop\New folder (4)\Lab 8 MVC working\MvcMovie\MvcMovie\bin\System.Web.WebPages.Deployment.dll
+C:\Users\Nancy\Desktop\New folder (4)\Lab 8 MVC working\MvcMovie\MvcMovie\bin\System.Web.WebPages.dll
+C:\Users\Nancy\Desktop\New folder (4)\Lab 8 MVC working\MvcMovie\MvcMovie\bin\System.Web.WebPages.Razor.dll
+C:\Users\Nancy\Desktop\New folder (4)\Lab 8 MVC working\MvcMovie\MvcMovie\bin\WebGrease.dll
+C:\Users\Nancy\Desktop\New folder (4)\Lab 8 MVC working\MvcMovie\MvcMovie\bin\System.Web.Helpers.xml
+C:\Users\Nancy\Desktop\New folder (4)\Lab 8 MVC working\MvcMovie\MvcMovie\bin\System.Web.Mvc.xml
+C:\Users\Nancy\Desktop\New folder (4)\Lab 8 MVC working\MvcMovie\MvcMovie\bin\System.Web.Optimization.xml
+C:\Users\Nancy\Desktop\New folder (4)\Lab 8 MVC working\MvcMovie\MvcMovie\bin\System.Web.Razor.xml
+C:\Users\Nancy\Desktop\New folder (4)\Lab 8 MVC working\MvcMovie\MvcMovie\bin\System.Web.WebPages.xml
+C:\Users\Nancy\Desktop\New folder (4)\Lab 8 MVC working\MvcMovie\MvcMovie\bin\System.Web.WebPages.Deployment.xml
+C:\Users\Nancy\Desktop\New folder (4)\Lab 8 MVC working\MvcMovie\MvcMovie\bin\System.Web.WebPages.Razor.xml
+C:\Users\Nancy\Desktop\New folder (4)\Lab 8 MVC working\MvcMovie\MvcMovie\bin\Antlr3.Runtime.pdb
+C:\Users\Nancy\Desktop\New folder (4)\Lab 8 MVC working\MvcMovie\MvcMovie\bin\Newtonsoft.Json.xml
+C:\Users\Nancy\Desktop\New folder (4)\Lab 8 MVC working\MvcMovie\MvcMovie\bin\EntityFramework.xml
+C:\Users\Nancy\Desktop\New folder (4)\Lab 8 MVC working\MvcMovie\MvcMovie\bin\EntityFramework.SqlServer.xml
+C:\Users\Nancy\Desktop\New folder (4)\Lab 8 MVC working\MvcMovie\MvcMovie\bin\Microsoft.AspNet.Identity.Core.xml
+C:\Users\Nancy\Desktop\New folder (4)\Lab 8 MVC working\MvcMovie\MvcMovie\bin\Microsoft.AspNet.Identity.Owin.xml
+C:\Users\Nancy\Desktop\New folder (4)\Lab 8 MVC working\MvcMovie\MvcMovie\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+C:\Users\Nancy\Desktop\New folder (4)\Lab 8 MVC working\MvcMovie\MvcMovie\bin\Microsoft.Owin.xml
+C:\Users\Nancy\Desktop\New folder (4)\Lab 8 MVC working\MvcMovie\MvcMovie\bin\Microsoft.Owin.Host.SystemWeb.xml
+C:\Users\Nancy\Desktop\New folder (4)\Lab 8 MVC working\MvcMovie\MvcMovie\bin\Microsoft.Owin.Security.xml
+C:\Users\Nancy\Desktop\New folder (4)\Lab 8 MVC working\MvcMovie\MvcMovie\bin\Microsoft.Owin.Security.Facebook.xml
+C:\Users\Nancy\Desktop\New folder (4)\Lab 8 MVC working\MvcMovie\MvcMovie\bin\Microsoft.Owin.Security.Cookies.xml
+C:\Users\Nancy\Desktop\New folder (4)\Lab 8 MVC working\MvcMovie\MvcMovie\bin\Microsoft.Owin.Security.OAuth.xml
+C:\Users\Nancy\Desktop\New folder (4)\Lab 8 MVC working\MvcMovie\MvcMovie\bin\Microsoft.Owin.Security.Google.xml
+C:\Users\Nancy\Desktop\New folder (4)\Lab 8 MVC working\MvcMovie\MvcMovie\bin\Microsoft.Owin.Security.Twitter.xml
+C:\Users\Nancy\Desktop\New folder (4)\Lab 8 MVC working\MvcMovie\MvcMovie\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+C:\Users\Nancy\Desktop\New folder (4)\Lab 8 MVC working\MvcMovie\MvcMovie\obj\Debug\MvcMovie.csprojResolveAssemblyReference.cache
+C:\Users\Nancy\Desktop\New folder (4)\Lab 8 MVC working\MvcMovie\MvcMovie\obj\Debug\MvcMovie.Migrations.Initial.resources
+C:\Users\Nancy\Desktop\New folder (4)\Lab 8 MVC working\MvcMovie\MvcMovie\obj\Debug\MvcMovie.Migrations.Rating.resources
+C:\Users\Nancy\Desktop\New folder (4)\Lab 8 MVC working\MvcMovie\MvcMovie\obj\Debug\MvcMovie.Migrations.DataAnnotations.resources
+C:\Users\Nancy\Desktop\New folder (4)\Lab 8 MVC working\MvcMovie\MvcMovie\obj\Debug\MvcMovie.csproj.GenerateResource.Cache
+C:\Users\Nancy\Desktop\New folder (4)\Lab 8 MVC working\MvcMovie\MvcMovie\obj\Debug\MvcMovie.dll
+C:\Users\Nancy\Desktop\New folder (4)\Lab 8 MVC working\MvcMovie\MvcMovie\obj\Debug\MvcMovie.pdb
+C:\Users\Nancy\Desktop\New folder (4)\Lab 8 MVC working\MvcMovie\MvcMovie\obj\Debug\MvcMovie.Migrations.Language.resources
